@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    border: 2px solid rgb(61,3,61);
+    border-radius: 25px;
+    background: antiquewhite;
+ }
